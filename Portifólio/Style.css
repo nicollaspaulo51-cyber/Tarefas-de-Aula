@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Descrição{
+    margin: auto;
+    width: 500px;
+    background-color: rgb(245, 215, 220);
+    font-size: large;
+}
+
+
+.Interesses{
+padding: 20px;
+border: solid rgb(161, 94, 94) 20px;
+border-radius: 30px;
+margin: 100px;
+}
